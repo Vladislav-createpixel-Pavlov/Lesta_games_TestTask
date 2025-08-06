@@ -18,7 +18,7 @@ class RowingBoat:
             print(f'Лодка проплыла {distance_in_meters} метров.')
             return True
         else:
-            print('Нельзя двигаться вперёд без пассажиров или находясь вне воды.')
+            print('Нельзя двигаться вперёд без пассажиров или находясь на суше.')
             return False
             
     def change_direction(self, new_direction):
@@ -36,4 +36,5 @@ class RowingBoat:
             'current_passengers': self.current_passengers,
             'speed': self.speed,
             'direction': self.direction
+
         }
