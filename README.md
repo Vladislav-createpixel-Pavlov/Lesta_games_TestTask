@@ -22,3 +22,11 @@ Lesta_games_TestTask
 ├── ТК_лодка_Павлов_В_С.xlsx
 └── README.md
 ```
+Для запуска тестов воспользуйтесь командой:
+```
+pytest test.py --alluredir allure-results
+```
+Для запуска веб-страница отчета allure воспользуйтесь командой:
+```
+allure serve allure-results
+```
