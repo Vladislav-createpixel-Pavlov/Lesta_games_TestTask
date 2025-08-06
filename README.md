@@ -12,12 +12,13 @@
 
 - :mailbox:Telegram: @Vladis1avPavlov
 ```
-rowingboat_api
+Lesta_games_TestTask
 ├── src
 │   └── boat.py
 ├── utils
 │   └── requirements.txt
 ├── test.py
 ├── .gitignore
+├── ТК_лодка_Павлов_В_С.xlsx
 └── README.md
 ```
