@@ -15,9 +15,9 @@
 rowingboat_api
 ├── src
 │   └── boat.py
-├── tests/
-│   └── test_rowingboat.py
+├── test.py
 ├── .gitignore
-├── requirements.txt
+├── utils
+│   └── requirements.txt
 └── README.md
 ```
